@@ -1,3 +1,5 @@
 import random
-getal = random.choice(0, 5)
-print(getal)
+
+for i in range(10):
+    getal = random.randint(0, 5)
+    print(getal)
