@@ -1,0 +1,61 @@
+TERM_SESSION_ID: w0t0p0:AE06BA53-EFA6-49C1-86D2-B4A904738CA5
+
+SSH_AUTH_SOCK: /private/tmp/com.apple.launchd.5FEh7ouCaX/Listeners
+
+LC_TERMINAL_VERSION: 3.3.7
+
+COLORFGBG: 7;0
+
+ITERM_PROFILE: Default
+
+XPC_FLAGS: 0x0
+
+PWD: /Users/niels/Desktop/python-cursus
+
+SHELL: /bin/zsh
+
+LC_CTYPE: UTF-8
+
+TERM_PROGRAM_VERSION: 3.3.7
+
+TERM_PROGRAM: iTerm.app
+
+PATH: /usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Applications/Wireshark.app/Contents/MacOS
+
+LC_TERMINAL: iTerm2
+
+COLORTERM: truecolor
+
+TERM: xterm-256color
+
+HOME: /Users/niels
+
+TMPDIR: /var/folders/0j/521mb8nj4w1__ltysfgzlptw0000gn/T/
+
+USER: niels
+
+XPC_SERVICE_NAME: 0
+
+LOGNAME: niels
+
+ITERM_SESSION_ID: w0t0p0:AE06BA53-EFA6-49C1-86D2-B4A904738CA5
+
+__CF_USER_TEXT_ENCODING: 0x1F5:0x0:0x0
+
+SHLVL: 1
+
+OLDPWD: /Users/niels
+
+ZSH: /Users/niels/.oh-my-zsh
+
+PAGER: less
+
+LESS: -R
+
+LSCOLORS: Gxfxcxdxbxegedabagacad
+
+_: /usr/local/bin/python3
+
+__PYVENV_LAUNCHER__: /usr/local/bin/python3
+
+Ik ben klaar

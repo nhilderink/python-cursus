@@ -1,0 +1,28 @@
+key,value
+=========
+PATH,/Users/niels/.local/share/virtualenvs/python-cursus-_oiBbKtD/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Applications/Wireshark.app/Contents/MacOS
+PS1,(python-cursus) 
+VERSIONER_PYTHON_VERSION,2.7
+LOGNAME,niels
+XPC_SERVICE_NAME,com.jetbrains.pycharm.3280.BE10A997-1DCB-45AC-913B-32AE9C4AAA56
+PWD,/Users/niels/Desktop/python-cursus
+PYCHARM_HOSTED,1
+TOOLBOX_VERSION,1.16.6067
+PYCHARM_DISPLAY_PORT,63342
+PYTHONPATH,/Users/niels/Desktop/python-cursus:/Users/niels/Library/Application Support/JetBrains/Toolbox/apps/PyCharm-P/ch-0/192.7142.42/PyCharm.app/Contents/helpers/pycharm_matplotlib_backend:/Users/niels/Library/Application Support/JetBrains/Toolbox/apps/PyCharm-P/ch-0/192.7142.42/PyCharm.app/Contents/helpers/pycharm_display
+SHELL,/bin/zsh
+PAGER,less
+LSCOLORS,Gxfxcxdxbxegedabagacad
+PYTHONIOENCODING,UTF-8
+OLDPWD,/Users/niels/Library/Application Support/JetBrains/Toolbox/apps/PyCharm-P/ch-0/192.7142.42/PyCharm.app/Contents/bin
+USER,niels
+ZSH,/Users/niels/.oh-my-zsh
+TMPDIR,/var/folders/0j/521mb8nj4w1__ltysfgzlptw0000gn/T/
+SSH_AUTH_SOCK,/private/tmp/com.apple.launchd.5FEh7ouCaX/Listeners
+VIRTUAL_ENV,/Users/niels/.local/share/virtualenvs/python-cursus-_oiBbKtD
+XPC_FLAGS,0x0
+PYTHONUNBUFFERED,1
+__CF_USER_TEXT_ENCODING,0x1F5:0x0:0x0
+LESS,-R
+LC_CTYPE,UTF-8
+HOME,/Users/niels
