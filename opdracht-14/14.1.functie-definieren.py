@@ -1,4 +1,5 @@
-def eindbaas():
-    print("Bowser")
+def eindbaas(naam):
+    baas = "De ultieme eindbaas is " + naam
+    print(baas)
 
-eindbaas()
+eindbaas("Loes")
