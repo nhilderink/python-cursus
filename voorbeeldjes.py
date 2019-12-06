@@ -1,9 +1,27 @@
-getal = 0
+import random
+
+def generate_pw(length=4):
+    letters = "abcdefghijklmnopqrstuvwxyz"
+    pw = ""
+    for i in range(length):
+        pw += random.choice(letters)
+    return pw
+
+given_password = ""
 while True:
-    getal = input("Geef een getal: ")
-    try:
-        getal = int(getal)
-        print(getal * 2)
+    given_password = input("Geef een wachtwoord: ")
+    if len(given_password) != 4:
+        print("Het wachtwoord moet 4 tekens bevatten")
+        continue
+    else:
         break
-    except ValueError:
-        print("Dit was geen geldig getal")
+
+teller = 0
+print("Ik ga jouw ww proberen te raden!")
+while True:
+    teller += 1
+    password = generate_pw()
+    if password == given_password:
+        print("Geraden! Het wachtwoord was {}".format(password))
+        print("Ik deed er {} pogingen over".format(teller))
+        break
