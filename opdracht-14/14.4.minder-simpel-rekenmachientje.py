@@ -11,6 +11,7 @@ def rekenmachine(getal1, getal2, operatie):
     if operatie == "v":
         return getal1 * getal2
 
+
 som = rekenmachine(1, 4, "o")
 af = rekenmachine(1, 4, "a")
 delen = rekenmachine(4, 2, "d")
@@ -20,3 +21,4 @@ print(som)
 print(af)
 print(delen)
 print(vermenigvuldig)
+
