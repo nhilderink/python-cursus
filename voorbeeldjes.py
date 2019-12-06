@@ -1,9 +1,8 @@
-import random
+def oppervlakte(l, b):
+    return l * b
 
-getal = random.randint(0, 10)
-gok = input("Geef een getal op: ")
+lengte = int(input("geef de lengte: "))
+breedte = int(input("geef de breedte"))
 
-if gok == getal:
-    print("Je hebt het geraden! Het getal was {}".format(gok))
-else:
-    print("Helaas")
+opvl = oppervlakte(lengte, breedte)
+print(opvl)
