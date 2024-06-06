@@ -7,7 +7,7 @@ tellertje = 0
 for key in omgevings_variabelen:
     tellertje += 1
     value = omgevings_variabelen[key]
-    regel = f"{key},{value}\n"
+    regel = f"{key}: {value}\n"
     output_file.write(regel)
 
 output_file.close()
